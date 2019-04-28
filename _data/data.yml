@@ -35,10 +35,10 @@ sidebar:
       level: Fluent
 
     - idiom: French
-      level: Entry
+      level: Entry-level
 
   interests:
-    - item: Ttiathlon
+    - item: Triathlon
       link:
 
     - item: Traveling
@@ -50,18 +50,12 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-
-    Second paragraph if required.
+    Junior Web Developer with 1+ years of experience in web and object oriented programming, always eager to learn new things. Able to complete projects efficiently and to satisfy costumers with attractive and easy to use code.
 
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BSc in Civil engineering
+    university: FURB - Universidade Regional de Blumenau (Brazil)
+    time: 2013 - 2019
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,9 +66,9 @@ education:
         - Bullet point
         - Bullet point
 
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: BSc in Civil engineering
+    university: USC - Universidade de Santiago de Compostela (Spain)
+    time: 2015 - 2016
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -86,118 +80,77 @@ education:
         - Bullet point
 
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Department of Projects Intern
+    time: JUN 2017 - Present
+    company: Construtora Hahne Ltda, Brazil
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      As an intern at the department of projects of this major Brazilian construction company, I was required to elaborate structural, sanitary and electrical projects based on BIM technology both for the residential and industrial markets.
 
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Lab Monitor
+    time: APR 2017 - JUN 2017
+    company: Universidade regional de Blumenau, Brazil
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      As a lab monitor at the university materials and soil laboratory, I was able to provide assistance to professors and students, on conducting normalized procedures and tests in civil engineering materials and in soil samples.
 
-        - Bullet point
-        - Bullet point
-
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+  - role: Research Assistant
+    time: FEB 2016 - AUG 2016
+    company: Universidade de Santiago de Compostela, Spain
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-
-        - Bullet point
-        - Bullet point
+      At the hydraulics research lab, my main duties included the analysis and production of technical reports related to irrigation systems.
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Here are some of the open source projects I have worked on as a developer.
 
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: publicationReceipt
+      link: "https://github.com/raschmitt/publicationReceipt"
+      tagline: "Solution for automatizing the process of creating receipts of publication, using Google Documents, for an online newspaper."
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: steelCount
+      link: "https://github.com/raschmitt/steelCount"
+      tagline: "Code proposal for counting the number of steel bars needed to supply the needs of unitary length used in reinforced concrete structures."
 
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: mapadocHahne
+      link: "https://github.com/raschmitt/mapadocHahne"
+      tagline: "Comercial solution to generate a map of projects that are currently valid for site construction using Google Apps."
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-
-  papers:
-    - title: The Art of Computer Programming
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+#publications:
+#  title: Publications
+#  intro: |
+#    You can list your publications in this section. Lorem ipsum dolor sit
+#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#    bibendum fringilla a eu lectus.
+#
+#  papers:
+#    - title: The Art of Computer Programming
+#      authors: Donald E. Knuth
+#      conference: Addison-Wesley, 1968
+#
+#    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#    - title: A syntax directed compiler for Algol 60
+#      authors: Edgar T. Irons
+#      conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
-      level: 98%
+    - name: Javascript
+      level: 75%
 
-    - name: Javascript & jQuery
-      level: 98%
-
-    - name: Angular
-      level: 98%
-
-    - name: HTML5 & CSS
-      level: 95%
-
-    - name: Ruby on Rails
-      level: 85%
-
-    - name: Sketch & Photoshop
+    - name: Google Apps Script
       level: 60%
+
+    - name: HTML & CSS
+      level: 50%
+
+    - name: Git
+      level: 75%
 
 footer: >
   Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
