@@ -7,15 +7,15 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Rogerio
+  name: Rogerio Schmitt
   tagline: Junior Full Stack Developer
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: rogerio.schmitt@me.com
   phone: +55 47 99644 4080
-  website: blog.webjeda.com #do not add http://
-  linkedin: alandoe
+  website: raschmitt.github.io/online-cv/ #do not add http://
+  linkedin: rogerioschmitt
   github: raschmitt
   gitlab:
   bitbucket:
@@ -200,4 +200,4 @@ skills:
       level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
