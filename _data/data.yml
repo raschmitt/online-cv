@@ -152,4 +152,10 @@ skills:
     - name: Git
       level: 75%
 
+    - name: Bootstrap
+      level: 35%
+
+    - name: jQuery
+      level: 45%
+
 footer: >
