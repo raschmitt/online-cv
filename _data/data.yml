@@ -152,10 +152,5 @@ skills:
     - name: Git
       level: 75%
 
-    - name: Bootstrap
-      level: 30%
-
-    - name: jQuery
-    level: 45%
-
-footer:
+footer: >
+  Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
