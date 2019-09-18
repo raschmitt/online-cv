@@ -13,8 +13,8 @@ sidebar:
 
   # Sidebar links
   email: rogerio.schmitt@me.com
-  phone: +55 47 99644 4080
-  website: raschmitt.github.io/online-cv/ #do not add http://
+  phone: +55 (47) 99644 4080
+  website: raschmitt.github.io #do not add http://
   linkedin: rogerioschmitt
   github: raschmitt
   gitlab:
@@ -45,6 +45,9 @@ sidebar:
       link:
 
     - item: Construction
+      link:
+
+    - item: 3D Printing
       link:
 
 career-profile:
@@ -80,28 +83,40 @@ education:
         - Bullet point
 
 experiences:
-  - role: Department of Projects Intern
-    time: JUN 2017 - PRESENT
-    company: Construtora Hahne Ltda, Brazil
+  - role: Junior C# Developer
+    time: SEP 2019 - PRESENT
+    company: HBSIS - AMBEV, Brazil
     details: |
-      As an intern at the department of projects of this major Brazilian construction company, I was required to elaborate structural, sanitary and electrical projects based on BIM technology both for the residential and industrial markets.
+      Worked as a C# developer for [HBSIS - AMBEV](https://hbsis.com.br/), wich makes part of the largest brewer group in the word, [AB Inbev](https://www.ab-inbev.com/).
+
+  - role: Scrum Master - Project Manager
+    time: SEP 2019 - PRESENT
+    company: Vincae, Brazil
+    details: |
+      Responsible for implementing and maintaining a scrum methodology during the development of Unreal Engine based games like [Pure Forge](https://store.steampowered.com/app/1060160/PureForge).
+
+  - role: Construction Designer
+    time: JUN 2017 - SEP 2019
+    company: Construtora Hahne, Brazil
+    details: |
+      As an construction designer at the department of projects of this major Brazilian construction company, I was required to elaborate structural, sanitary and electrical projects based on BIM technology both for the residential and industrial markets.
 
   - role: Lab Monitor
     time: APR 2017 - JUN 2017
-    company: Universidade regional de Blumenau, Brazil
+    company: Universidade Regional de Blumenau - FURB, Brazil
     details: |
       As a lab monitor at the university materials and soil laboratory, I was able to provide assistance to professors and students, on conducting normalized procedures and tests in civil engineering materials and in soil samples.
 
   - role: Research Assistant
     time: FEB 2016 - AUG 2016
-    company: Universidade de Santiago de Compostela, Spain
+    company: Universidade de Santiago de Compostela - USC, Spain
     details: |
       At the hydraulics research lab, my main duties included the analysis and production of technical reports related to irrigation systems.
 
 projects:
   title: Projects
   intro: >
-    Here are some of the open source projects I have worked on as a developer.
+    "Here are some of the open source projects I have worked on as a developer:"
 
   assignments:
     - title: publicationReceipt
