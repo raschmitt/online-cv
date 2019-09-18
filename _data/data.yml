@@ -155,6 +155,9 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
+    - name: C#
+      level: 75%
+
     - name: Javascript
       level: 75%
 
