@@ -1,3 +1,3 @@
 # online-cv
 
-https://raschmitt.github.io/.
+https://raschmitt.github.io
