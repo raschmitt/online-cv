@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Rogerio Schmitt
-  tagline: Junior Full Stack Developer
+  tagline: Back-End Developer
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -119,17 +119,13 @@ projects:
     Here are some of the open source projects I have worked on as a developer&#58
 
   assignments:
-    - title: publicationReceipt
-      link: "https://github.com/raschmitt/publicationReceipt"
-      tagline: "Solution for automatizing the process of creating receipts of publication, using Google Documents, for an online newspaper."
+    - title: DateOverride
+      link: "https://github.com/raschmitt/date-override"
+      tagline: "Simple solution for mocking date properties with private setters in C#."
 
-    - title: steelCount
-      link: "https://github.com/raschmitt/steelCount"
-      tagline: "Code proposal for counting the number of steel bars needed to supply the needs of unitary length used in reinforced concrete structures."
-
-    - title: mapadocHahne
-      link: "https://github.com/raschmitt/mapadocHahne"
-      tagline: "Comercial solution to generate a map of projects that are currently valid for site construction using Google Apps."
+    - title: Cli.Mail
+      link: "https://github.com/raschmitt/cli-mail"
+      tagline: "Easy to use CLI tool for sending e-mails."
 
 #publications:
 #  title: Publications
